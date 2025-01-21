@@ -11,7 +11,7 @@
 
 <h2>👩🏻‍💻 Programming Projects:</h2>
 
-- [Data Organizer (C++)] (https://github.com/LesleyCanoM/Data-Organizer/tree/main) </b>
+- [Data Organizer C++](https://github.com/LesleyCanoM/Data-Organizer) 
   - A program that reads numerical data from a file, organizes it, calculates averages and sums, and performs arithmetic operations using loops and file handling.
 
 - <b>Pounds-to-Kilograms Calculator (C++)</b>
