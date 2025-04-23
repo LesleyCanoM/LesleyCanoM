@@ -2,8 +2,6 @@
 
 <h2>💻 IT Projects:</h2>
 
-- <b>Inventory Management System (Excel & VBA)</b>
-  - Designed a system to streamline stock tracking and reporting for efficient business operations.
 
 - <b>Quarterly Budget Analysis (Excel)</b>
   - Developed an Excel tool to track revenues and expenses with built-in formulas and data visualizations, aiding in financial decision-making.
