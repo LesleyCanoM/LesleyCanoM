@@ -14,8 +14,9 @@
 - [Data Organizer C++](https://github.com/LesleyCanoM/Data-Organizer) 
   - A program that reads numerical data from a file, organizes it, calculates averages and sums, and performs arithmetic operations using loops and file handling.
 
-- <b>Pounds-to-Kilograms Calculator (C++)</b>
-  - A simple yet effective weight conversion tool utilizing strings and doubles for user-friendly interaction.
+- <b>Even and Odd Array Analysis (C++)</b>
+  - A program that reads numbers from a file, separates them into even and odd arrays, and performs statistical analysis, including max, min, average, and values above average. Outputs are cleanly written to multiple files using modular functions and structured logic.
+
 
 <h2>📊 Skills:</h2>
 
